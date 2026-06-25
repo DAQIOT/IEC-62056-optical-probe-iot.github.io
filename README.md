@@ -1,4 +1,4 @@
-# IEC-62056-optical-probe-iot.github.io
+<img width="1460" height="674" alt="c82d69c86fef9cc3da57f1a3032a9b46" src="https://github.com/user-attachments/assets/d486a35f-d5ae-428c-839a-235ffd0b031e" /># IEC-62056-optical-probe-iot.github.io
 How to solve the challenges of meter data acquisition using DLMS & EDMI protocols?
 I. Project Background: Obstacles encountered in collecting data from special protocol electricity meters?
 Project Basic Information
@@ -28,6 +28,7 @@ Implementation process
 
 
 
+<img width="1920" height="1080" alt="6157da7ee83c5303e1c3b0bdddd2ec47" src="https://github.com/user-attachments/assets/ec8491aa-a009-493e-a50a-c0df4ebf128a" />
 
 
 
